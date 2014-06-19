@@ -1,19 +1,27 @@
-<ion-view title="Browse">
+<ion-view title="Case1">
   <ion-nav-buttons side="left">
     <button menu-toggle="left"class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
   <ion-content class="has-header">
-    <h1>Bro</h1>
+    <h1>Case1</h1>
     
     
     <body>
         文档的内容...
         
-        <button type="button" onclick="alert('welcome!')"> 
-        	点击这里
-        	</button>
-        
-        
+		<p id="demo">
+			JavaScript 能改变 HTML 元素的样式。
+		</p>
+
+		<script>
+			function myFunction()
+			{
+				x=document.getElementById("demo") // 找到元素
+				x.style.color="#ff0000";          // 改变样式
+			}
+		</script>
+
+		<button type="button" onclick="myFunction()">点击这里</button>
         
     </body>
     
