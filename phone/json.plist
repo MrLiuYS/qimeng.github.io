@@ -22,7 +22,7 @@
 		<array>
 			<dict>
 				<key>label</key>
-				<string>Honours</string>
+				<string>荣誉</string>
 				<key>title</key>
 				<string>Honours</string>
 				<key>classid</key>
@@ -43,7 +43,7 @@
 			</dict>
 			<dict>
 				<key>label</key>
-				<string>Education</string>
+				<string>学历</string>
 				<key>title</key>
 				<string>Education</string>
 				<key>classid</key>
@@ -54,9 +54,25 @@
 				<array>
 					<dict>
 						<key>label</key>
-						<string></string>
+						<string>本科</string>
 						<key>title</key>
-						<string></string>
+						<string>福建工程学院</string>
+						<key>imgurl</key>
+						<string>http://qimeng.github.io/phone/imgs/IMG_00491.JPG</string>
+					</dict>
+					<dict>
+						<key>label</key>
+						<string>大专</string>
+						<key>title</key>
+						<string>福建师范大学</string>
+						<key>imgurl</key>
+						<string>http://qimeng.github.io/phone/imgs/IMG_00491.JPG</string>
+					</dict>
+					<dict>
+						<key>label</key>
+						<string>高中</string>
+						<key>title</key>
+						<string>石狮市第一中学</string>
 						<key>imgurl</key>
 						<string>http://qimeng.github.io/phone/imgs/IMG_00491.JPG</string>
 					</dict>
@@ -64,7 +80,7 @@
 			</dict>
 			<dict>
 				<key>label</key>
-				<string>Training</string>
+				<string>培训</string>
 				<key>title</key>
 				<string>Training</string>
 				<key>classid</key>
@@ -77,7 +93,7 @@
 						<key>label</key>
 						<string></string>
 						<key>title</key>
-						<string></string>
+						<string>福建甲壳虫3G网络有限公司</string>
 						<key>imgurl</key>
 						<string>http://qimeng.github.io/phone/imgs/IMG_00491.JPG</string>
 					</dict>
@@ -85,7 +101,7 @@
 			</dict>
 			<dict>
 				<key>label</key>
-				<string>Evaluation</string>
+				<string>评价</string>
 				<key>title</key>
 				<string>Evaluation</string>
 				<key>classid</key>
