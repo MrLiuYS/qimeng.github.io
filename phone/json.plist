@@ -29,7 +29,7 @@
 				<string>Honours</string>
 				<key>iconurl</key>
 				<string>http://qimeng.github.io/phone/common/flag@2x.png</string>
-				<key>list</key>
+				<key>items</key>
 				<array>
 					<dict>
 						<key>label</key>
@@ -50,7 +50,7 @@
 				<string>Education</string>
 				<key>iconurl</key>
 				<string>http://qimeng.github.io/phone/common/vcard@2x.png</string>
-				<key>list</key>
+				<key>items</key>
 				<array>
 					<dict>
 						<key>label</key>
@@ -71,7 +71,7 @@
 				<string>Training</string>
 				<key>iconurl</key>
 				<string>http://qimeng.github.io/phone/common/sharable@2x.png</string>
-				<key>list</key>
+				<key>items</key>
 				<array>
 					<dict>
 						<key>label</key>
@@ -92,7 +92,7 @@
 				<string>Evaluation</string>
 				<key>iconurl</key>
 				<string>http://qimeng.github.io/phone/common/clipboard@2x.png</string>
-				<key>list</key>
+				<key>items</key>
 				<array>
 					<dict>
 						<key>label</key>
