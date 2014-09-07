@@ -36,6 +36,8 @@
 						<string></string>
 						<key>title</key>
 						<string></string>
+						<key>time</key>
+						<string></string>
 						<key>imgurl</key>
 						<string>http://qimeng.github.io/phone/imgs/IMG_00491.JPG</string>
 					</dict>
@@ -57,6 +59,8 @@
 						<string>本科</string>
 						<key>title</key>
 						<string>福建工程学院</string>
+						<key>time</key>
+						<string>2013~2015年</string>
 						<key>imgurl</key>
 						<string>http://qimeng.github.io/phone/imgs/IMG_00491.JPG</string>
 					</dict>
@@ -65,6 +69,8 @@
 						<string>大专</string>
 						<key>title</key>
 						<string>福建师范大学</string>
+						<key>time</key>
+						<string>2009.09~2012.06</string>
 						<key>imgurl</key>
 						<string>http://qimeng.github.io/phone/imgs/IMG_00491.JPG</string>
 					</dict>
@@ -73,6 +79,8 @@
 						<string>高中</string>
 						<key>title</key>
 						<string>石狮市第一中学</string>
+						<key>time</key>
+						<string>2006.09~2009.06</string>
 						<key>imgurl</key>
 						<string>http://qimeng.github.io/phone/imgs/IMG_00491.JPG</string>
 					</dict>
@@ -94,6 +102,8 @@
 						<string></string>
 						<key>title</key>
 						<string>福建甲壳虫3G网络有限公司</string>
+						<key>time</key>
+						<string>2011.07~2012.02</string>
 						<key>imgurl</key>
 						<string>http://qimeng.github.io/phone/imgs/IMG_00491.JPG</string>
 					</dict>
